@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "app_htn",
-    "slug": "app_htn",
+    "slug": "app-htn",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.vmthuan16052003.apphtn"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "101ec822-d94c-4e14-9852-d17d79ec3e92"
+      }
+    },
+    "owner": "vmthuan16052003"
   }
 }
