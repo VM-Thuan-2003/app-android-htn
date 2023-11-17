@@ -1,0 +1,3 @@
+### APP ANDOID FOR PROJECT FINAL HTN
+## CODER: Võ Minh Thuận
+# CONTACT: vmthuan16052003@gmail.com
